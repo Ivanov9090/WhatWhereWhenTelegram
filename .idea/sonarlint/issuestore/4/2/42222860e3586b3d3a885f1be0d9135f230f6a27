@@ -1,0 +1,13 @@
+
+	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ªÆÄ¢ü1J$a37e8593-1c80-4660-8db2-9fc5db93c84f
+’	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¶›u8³ÆÄ¢ü1J$4cf2a52a-efee-4560-94c5-e0378cc27704
+’	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¶›u8³ÆÄ¢ü1J$11657f95-c455-4ba5-9789-d62f13a244ef
+•	java:S116"SRename this field "BOT_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“´•û8ÂÆÄ¢ü1J$c5e71759-24ae-482c-bb35-f018a4756dcb
+–	java:S116"TRename this field "BOT_TOKEN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•°í²8ÂÆÄ¢ü1J$0b6dbd8e-abce-4846-80f1-37cc0c2f117d
+
+java:S1874#"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(®É–Ø8ÌÆÄ¢ü1J$06c0e212-5c3f-41aa-88c3-e4e4ac2f85ef
+¡
+java:S21428"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ĞÆÄ¢ü1J$a730885e-04ed-4f78-8e7c-58808537f209
+m	java:S106K"+Replace this use of System.out by a logger.(ùñ°‹8ÖÆÄ¢ü1J$5e612e8b-79f8-4fad-beae-f1c91b10b984
+•
+java:S1128"RRemove this unused import 'org.telegram.telegrambots.bots.TelegramLongPollingBot'.(ûÃÏí8×ÆÄ¢ü1J$9ceb7df1-4a9c-4c73-bd1c-d5c06ec56944

@@ -1,0 +1,8 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œ´Òùÿÿÿÿ8—Ñ‡‹ü1J$d93d70b2-0cbb-4472-a42e-0e85821a50b2
+t
+java:S1128",Remove this unused import 'org.jsoup.Jsoup'.(Ù±šªûÿÿÿÿ8¦Ñ‡‹ü1J$ebdbc6eb-2d6c-4651-acc1-2555b731ac65
+x
+java:S1128"5Remove this unused import 'org.jsoup.nodes.Document'.(ô¯É8¦Ñ‡‹ü1J$5f361cf0-6997-4760-87d0-38820126511d
+x
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8¦Ñ‡‹ü1J$e1e44651-3c02-42e9-a9a6-3e9f8ac80ec7
